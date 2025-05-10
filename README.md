@@ -1,6 +1,6 @@
 ### AI-Resume-Evaluator
 
-This AI Resume Evaluator is capable of analyzing the job description and the candidate resume using Google Gemini and then provide insights on % match, missing skills and improvement areas.
+This AI Resume Evaluator is capable of analyzing the job description and candidate resume using Google Gemini and then provide insights on % match, missing skills and improvement areas.
 
 For creating this app, following open source packages have been used:
 
